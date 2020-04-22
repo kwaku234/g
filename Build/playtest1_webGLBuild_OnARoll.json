@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "RockGameCSC",
+"productVersion": "0.1",
+"dataUrl": "playtest1_webGLBuild_OnARoll.data.unityweb",
+"wasmCodeUrl": "playtest1_webGLBuild_OnARoll.wasm.code.unityweb",
+"wasmFrameworkUrl": "playtest1_webGLBuild_OnARoll.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
